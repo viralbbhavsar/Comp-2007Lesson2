@@ -19,7 +19,7 @@
             <div>
             Toppings: <asp:Label id="lblTopings" runat="server"></asp:Label>
                 </div>
-            <div>Size: <asp:Label id="lblSize" runat="server"></asp:Label>
+            <div>All Size: <asp:Label id="lblSize" runat="server"></asp:Label>
                 </div>
             <asp:CheckBoxList ID="cblToppings" runat="server" AutoPostBack="true">
                 <asp:ListItem Value="1" Text="Pepperoni"></asp:ListItem>
